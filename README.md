@@ -1,1 +1,1 @@
-"# Interactive-Dictionary" 
+It is a ditionary built in python which asks for suggestion, suppose you enter the word 'rainn' for meaning it will find this word in the JSON file of words with meanings since it won't find it so it will ask you if you meant 'rain' and if you type yes it will give you the meaning.
